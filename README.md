@@ -14,4 +14,12 @@ Subquestions:
 Data
 - (Anonymized) parcel volume data with size (width, height, length), weight, destination (country, ZIP), and parcel product (SLA) over time. If possible, we will add anonymized shipping parties.
 - Timestamps for previously announced parcels and the time they physically arrived at a facility (Site ID and Site ZIP). 
-- Sorting Results at the moment parcels arrive at a physical facility (chute and working shift). 
+- Sorting Results at the moment parcels arrive at a physical facility (chute and working shift).
+
+Tech stack
+1. Operating systems: Windows
+2. Server-Side Programming: Python
+3. Cloud platform: AWS
+4. Version control: Github
+5. Development environment: VS Code, JupyterLab
+6. Documentation: Github Wiki
