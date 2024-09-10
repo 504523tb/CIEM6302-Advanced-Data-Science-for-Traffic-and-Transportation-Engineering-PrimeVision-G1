@@ -1,7 +1,7 @@
 # CIEM6302 Advanced Data Science for Traffic and Transportation Engineering PrimeVision Group 1
  
-Main Question:
-How can we utilize historical data to predict future parcel volume and characteristics like size, weight and shipper using time-series forecasting methods?
+Main Question: \n
+How can we utilize historical data to predict future parcel volume and characteristics like size, weight and shipper using time-series forecasting methods? \n
 
 Subquestions:
 1. Data Preparation and Quality
