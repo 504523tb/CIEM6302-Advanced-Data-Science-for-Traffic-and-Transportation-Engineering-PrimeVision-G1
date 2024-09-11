@@ -6,10 +6,18 @@ How can time-series forecasting methods be used to predict future parcel volume 
 Subquestions:
 1. Which time-series forecasting methods can accurately predict the parcel volume?
 2. Which features significantly contribute to the prediction accuracy?
-3. Can external factors such as holidays, weather, economic conditions improve prediction accuracy?
-4. What metrics should be used to evaluate the accuracy of the time-series models?
-5. How can the predictions be validated to ensure they are reliable for real-world application?
-6. How can we optimally integrate our machine learning model into AWS to improve user ease and accessibility?
+3. What parameter has high predictability to determine the amount of packages?
+- Volume
+- Day of the week
+- Seasonality
+4. What parameter has high predictability to determine the volume of packages?
+- Volume
+- Day of the week
+- Seasonality
+5. Can external factors such as holidays, weather, economic conditions improve prediction accuracy?
+6. What metrics should be used to evaluate the accuracy of the time-series models?
+7. How can the predictions be validated to ensure they are reliable for real-world application?
+8. How can we optimally integrate our machine learning model into AWS to improve user ease and accessibility?
 
 Data
 - (Anonymized) parcel volume data with size (width, height, length), weight, destination (country, ZIP), and parcel product (SLA) over time. If possible, we will add anonymized shipping parties.
