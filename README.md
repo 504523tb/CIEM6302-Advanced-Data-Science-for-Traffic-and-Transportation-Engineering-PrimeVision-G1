@@ -31,3 +31,5 @@ Tech stack
 4. Version control: Github
 5. Development environment: VS Code, JupyterLab
 6. Documentation: Github Wiki
+
+![Adv  Data - Groffe Planning](https://github.com/user-attachments/assets/13ff0390-8764-4d36-8ed0-210bb4971a5c)
