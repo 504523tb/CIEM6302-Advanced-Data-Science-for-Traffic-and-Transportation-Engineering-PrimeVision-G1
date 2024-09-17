@@ -1,5 +1,9 @@
 # CIEM6302 Advanced Data Science for Traffic and Transportation Engineering PrimeVision Group 1
- 
+
+Meetings:
+1. Every Tuesday 13:45-15:30 - Update meeting
+2. Every Friday - Optional meeting
+
 Main Question: \
 How can time-series forecasting methods be used to predict future parcel volume in warehouses?
 
@@ -19,6 +23,13 @@ Tech stack
 4. Version control: Github
 5. Development environment: VS Code, JupyterLab
 6. Documentation: Github Wiki
+
+Backlog sprint 1 (week 3 & 4):
+1. Import and load data
+2. Clean data
+3. Visualize data
+4. Remove outliers
+5. Add extra features
 
 ![Adv  Data - Groffe Planning](https://github.com/user-attachments/assets/13ff0390-8764-4d36-8ed0-210bb4971a5c)
 
