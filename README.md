@@ -32,10 +32,3 @@ Backlog sprint 1 (week 3 & 4):
 5. Add extra features
 
 ![Adv  Data - Groffe Planning](https://github.com/user-attachments/assets/13ff0390-8764-4d36-8ed0-210bb4971a5c)
-
-Discuss about backlog
-- Create research question + subquestions
-- Create sprint planning
-- Create backlog
-- Teck stack
-
