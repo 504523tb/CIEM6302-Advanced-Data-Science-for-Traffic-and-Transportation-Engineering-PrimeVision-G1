@@ -59,7 +59,6 @@ Revise planning
 - Read about machine learning techniques
 - Take time series into account (trends last period)
   - Otherwise we make prediction for every day of the year
-- 
 
 Steps:
 1. Import and load data
